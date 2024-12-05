@@ -1,0 +1,107 @@
+mm_dataset_folder/wavs/class4_p10-00005.wav|ꯃꯇꯝ-ꯃꯇꯝꯒꯤ ꯑꯣꯏꯅ ꯄꯥꯏꯔꯛꯄ ꯃꯥꯂꯦꯝꯒꯤ ꯑꯇꯥꯡꯕ ꯎꯆꯦꯛ ꯃꯈꯜ ꯀꯌꯥꯒꯤ ꯆꯥꯛꯇꯥꯐꯝ ꯑꯣꯏ꯫
+mm_dataset_folder/wavs/class4_p23-00006.wav|ꯃꯥꯂꯦꯝ ꯑꯄꯨꯟꯕ ꯏꯃꯨꯡ ꯑꯃꯈꯛꯇꯒꯤ ꯃꯁꯛ ꯑꯣꯏꯔꯛꯂꯦ꯫
+mm_dataset_folder/wavs/class4_p22-00015.wav|ꯃꯤ ꯌꯥꯎꯔꯒ ꯄꯨꯡꯗ ꯀꯤꯂꯣꯃꯤꯇꯔ ꯲꯳꯳꯳ ꯐꯥꯎꯕ ꯌꯥꯡꯅ ꯄꯥꯏꯕ ꯉꯝꯕ ꯀꯣꯅꯀꯣꯔꯗ ꯊꯣꯔꯛꯂꯦ꯫
+mm_dataset_folder/wavs/class4_p10-00006.wav|ꯀꯩꯕꯨꯜ ꯂꯝꯖꯥꯎ ꯅꯦꯁꯅꯦꯜ ꯄꯥꯔ꯭ꯛꯇ ꯁꯉꯥꯏꯁꯤꯡꯅ ꯈꯔꯁꯥ ꯂꯝꯑꯣꯛꯁꯤꯡꯒ ꯄꯨꯟꯅ ꯂꯩꯃꯤꯟꯅꯩ꯫
+mm_dataset_folder/wavs/class4_p16-00013.wav|ꯍꯥꯏꯈꯤꯕ ꯃꯇꯨꯡꯏꯟꯅ ꯅꯤꯡꯊꯧꯅ ꯁꯔꯦꯡꯗ ꯃꯆꯥꯅꯨꯄꯤ ꯊꯥꯖꯈꯤ꯫
+mm_dataset_folder/wavs/class4_p15-00010.wav|ꯅꯤꯡꯊꯧꯅ ꯃꯌꯨꯝꯗꯒꯤ ꯁꯟꯊꯣꯡ ꯐꯥꯎꯕ ꯃꯅꯤ-ꯃꯨꯛꯇꯥꯅ ꯂꯦꯡꯍꯟꯅꯕ ꯍꯥꯏꯕ
+mm_dataset_folder/wavs/class4_p27-00001.wav|ꯇꯔꯨꯛꯁꯨꯕ ꯂꯥꯇꯝ ꯆꯝꯄ꯭ꯌꯨꯇꯔ ꯇꯥꯛꯄ ꯋꯥꯔꯤ ꯋꯥꯇꯥꯏ ꯁꯥꯕ
+mm_dataset_folder/wavs/class4_p21-00013.wav|ꯉꯁꯤ ꯈ꯭ꯋꯥꯏꯗꯀꯤ ꯌꯥꯡꯕ ꯐ꯭ꯔꯥꯟꯁꯀꯤ ꯇ꯭ꯔꯦꯟꯅ ꯄꯨꯡꯗ ꯀꯤꯂꯣꯃꯤꯇꯔ ꯵꯱꯵ ꯌꯥꯡꯅ ꯊꯧꯕ ꯉꯝꯂꯦ꯫
+mm_dataset_folder/wavs/class4_p15-00009.wav|ꯅꯤꯡꯊꯧꯅ ꯑꯃꯨꯛꯁꯨ ꯃꯉꯛ ꯏꯜꯍꯟꯕ - ꯑꯍꯨꯝꯂꯛꯁꯨꯕ ꯍꯥꯏꯔꯕ
+mm_dataset_folder/wavs/class4_p15-00026.wav|ꯅꯣꯡꯃꯗꯤ ꯏꯊꯥ-ꯊꯥꯖꯗꯅ ꯁꯔꯦꯡꯅ ꯃꯃꯥꯗ ꯍꯥꯏꯔꯛꯈꯤ ꯏꯃꯥ ꯀꯣꯅꯨꯡꯗ ꯆꯠꯂꯒ ꯅꯤꯡꯊꯧ ꯃꯆꯥꯅꯨꯄꯤꯗꯨ ꯅꯃꯧ ꯑꯣꯏꯅꯕ ꯈꯔ ꯍꯥꯏꯕꯤꯔꯨꯆꯣ꯫
+mm_dataset_folder/wavs/class4_p15-00012.wav|ꯁꯔꯦꯡꯅ ꯅꯤꯡꯊꯧ ꯃꯆꯥꯅꯨꯄꯤ ꯂꯧꯕ
+mm_dataset_folder/wavs/class4_p27-00003.wav|ꯇꯥꯃꯣ - ꯑꯩꯈꯣꯏꯒꯤ ꯆꯝꯄ꯭ꯌꯨꯇꯔ ꯂꯩꯔꯛꯏꯕꯅꯤ꯫ ꯎꯄꯨ ꯃꯌꯥꯝꯁꯤ ꯆꯝꯄ꯭ꯌꯨꯇꯔꯒꯤ ꯃꯄꯣꯠꯉꯥꯛꯇꯅꯤ꯫
+mm_dataset_folder/wavs/class4_p21-00010.wav|ꯑꯔꯨꯝꯕ ꯄꯣꯠ ꯀꯌꯥ ꯂꯥꯏꯅ ꯊꯨꯅ ꯂꯝ ꯂꯥꯞꯅ ꯄꯨꯕ ꯉꯝꯂꯦ꯫
+mm_dataset_folder/wavs/class4_p21-00011.wav|ꯏꯟꯖꯤꯟ ꯄꯨꯊꯣꯛꯂꯛꯄꯗꯒꯤ ꯀꯥꯡꯈꯣꯟꯕꯨ ꯏꯟꯖꯤꯟꯅ ꯎꯪꯍꯜꯂꯦ꯫
+mm_dataset_folder/wavs/class4_p6-00003.wav|ꯐꯤ ꯄꯥꯏꯅꯍꯟꯕ ꯑꯁꯤꯕꯨ 'ꯐꯤ ꯁꯤꯟꯅꯕ' ꯀꯧꯏ꯫
+mm_dataset_folder/wavs/class4_p16-00006.wav|ꯍꯟꯗꯛꯁꯨ ꯅꯤꯡꯊꯧꯅ ꯁꯥꯎꯗꯨꯅ ꯃꯉꯛ ꯂꯥꯛꯇꯨꯅ ꯏꯟꯍꯜꯂꯛꯈꯤ꯫
+mm_dataset_folder/wavs/class4_p10-00003.wav|ꯃꯂꯦꯝꯗ ꯂꯩꯕ ꯃꯈꯜ-ꯃꯊꯦꯜꯒꯤ ꯅꯦꯁꯅꯦꯜ ꯄꯥꯔ꯭ꯛ ꯃꯌꯥꯝꯗ ꯑꯇꯥꯎꯕ ꯐꯨꯝꯗꯤꯒꯤ ꯄꯥꯔ꯭ꯛ ꯑꯃꯐꯥꯎꯕ ꯌꯥꯎꯗꯦ꯫
+mm_dataset_folder/wavs/class4_p6-00005.wav|ꯂꯝꯕꯥ ꯑꯃꯗꯨ ꯂꯩꯕꯥꯛꯇ ꯊꯥꯗꯅꯕꯒꯤ ꯂꯧꯁꯤꯡꯕꯨ 'ꯂꯧ' ꯀꯧꯏ꯫
+mm_dataset_folder/wavs/class4_p9-00001.wav|ꯑꯍꯨꯝꯁꯨꯕ ꯂꯥꯇꯝ ꯀꯩꯕꯨꯜ ꯂꯝꯖꯥꯎ
+mm_dataset_folder/wavs/class4_p21-00006.wav|ꯆꯥꯅ-ꯊꯛꯅꯕ ꯄꯣꯠꯆꯩ ꯁꯥꯅ ꯆꯤꯡꯕ ꯃꯔꯦꯡꯕꯥꯟꯗ ꯊꯣꯡꯒꯠꯇꯨꯅ ꯃꯈꯣꯏꯅ ꯄꯨꯔꯛꯄ ꯍꯧꯔꯦ꯫
+mm_dataset_folder/wavs/class4_p16-00001.wav|ꯂꯨꯈ꯭ꯔꯥꯕꯤꯗꯨꯅ ꯅꯤꯡꯊꯧꯒꯤ ꯃꯐꯝꯗ ꯃꯆꯥꯅꯨꯄꯤꯕꯨ ꯃꯃꯧ ꯑꯣꯏꯅ ꯄꯤꯕꯤꯌꯨ ꯍꯥꯏꯖꯈꯤ꯫ ꯅꯤꯡꯊꯧꯗꯨ ꯃꯩ ꯍꯧꯅ ꯁꯥꯎꯈꯤ꯫
+mm_dataset_folder/wavs/class4_p15-00005.wav|ꯁꯔꯦꯡꯅ ꯃꯃꯥꯗ ꯅꯤꯡꯊꯧ ꯃꯆꯥꯅꯨꯄꯤ ꯍꯥꯏꯔꯨꯅꯕ ꯍꯥꯏꯕ
+mm_dataset_folder/wavs/class4_p15-00021.wav|ꯃꯍꯥꯛꯅ ꯁꯔꯦꯡ ꯑꯗꯨ ꯌꯥꯝꯅ ꯆꯥꯅꯤꯡꯂꯝꯃꯤ꯫
+mm_dataset_folder/wavs/class4_p9-00005.wav|ꯃꯐꯝ ꯑꯁꯤꯗ ꯐꯨꯔꯨꯞꯀꯤ ꯑꯣꯏꯕ ꯇꯥꯡꯂꯕ ꯃꯍꯧꯁꯥꯒꯤ ꯂꯟ, ꯄꯥꯅꯕꯤ-ꯁꯤꯡꯕꯤ ꯑꯃꯁꯨꯡ ꯁꯥ-ꯎꯆꯦꯛꯅ ꯆꯤꯡꯕ
+mm_dataset_folder/wavs/class4_p22-00003.wav|ꯃꯊꯪꯗ ꯃꯈꯜ ꯃꯊꯦꯜꯒꯤ ꯍꯤ ꯑꯃꯁꯨꯡ ꯖꯍꯥꯖ ꯁꯥꯔꯒ ꯑꯆꯧꯑꯆꯧꯕ ꯏꯁꯤꯡ ꯏꯄꯥꯛꯇ ꯄꯜ ꯇꯤꯡꯗꯨꯅ ꯏꯋꯥ-ꯋꯥꯗꯅ ꯆꯠꯄ ꯉꯝꯂꯦ꯫
+mm_dataset_folder/wavs/class4_p22-00005.wav|ꯉꯁꯤ ꯖꯍꯥꯖꯁꯤꯡ ꯑꯁꯤꯗ ꯆꯥꯅ-ꯊꯛꯅꯕ ꯆꯤꯟꯖꯥꯛꯁꯤꯡ ꯊꯥ ꯀꯌꯥ ꯏꯪꯍꯜꯂꯒ ꯃꯁꯥ ꯁꯣꯛꯍꯟꯗꯅ ꯄꯨꯕ ꯌꯥꯔꯦ꯫
+mm_dataset_folder/wavs/class4_p15-00011.wav|ꯍꯥꯠꯀꯅꯤ ꯀꯤꯍꯟꯕ - ꯃꯃꯥ ꯀꯞꯄ
+mm_dataset_folder/wavs/class4_p16-00018.wav|ꯁꯔꯦꯡꯅ ꯃꯤ ꯑꯤꯜꯂꯒ ꯃꯊꯦꯜ-ꯂꯨꯀꯣꯏ ꯆꯥꯒꯦ ꯆꯪꯂꯛꯄꯗꯨ ꯎꯔꯝꯃꯤ꯫
+mm_dataset_folder/wavs/class4_p10-00009.wav|ꯐꯨꯝꯗꯤ ꯃꯔꯛꯇ ꯄꯨꯈ꯭ꯔꯤ ꯃꯆꯥꯒꯨꯝ ꯂꯩꯕ ꯑꯍꯥꯡꯕ ꯃꯐꯝꯁꯤꯡꯗꯒꯤ ꯏꯁꯤꯡ ꯑꯔꯨꯕ ꯊꯛꯆꯩ;
+mm_dataset_folder/wavs/class4_p6-00009.wav|ꯂꯩꯕꯥꯛꯇ ꯂꯪꯊꯕ ꯃꯇꯝꯗ ꯈꯨꯛꯎ ꯅꯠꯇ꯭ꯔꯒ ꯈꯨꯛꯎ ꯃꯊꯛꯀꯤ ꯍꯛꯆꯥꯡꯅ ꯍꯥꯟꯅ ꯇꯥꯕ
+mm_dataset_folder/wavs/class4_p6-00015.wav|ꯃꯨꯛꯅꯥꯗ ꯃꯨꯛꯅꯥ ꯊꯥꯔꯤꯕ ꯃꯍꯥꯛꯅ ꯃꯨꯛꯅꯥ ꯇꯨꯔꯤꯕ ꯑꯗꯨꯕꯨ ꯅꯤꯡꯊꯤꯖꯅ ꯀꯣꯟꯈꯠꯄꯤꯔꯒ ꯍꯧꯒꯠꯃꯤꯟꯅꯕ ꯆꯠꯅꯩ꯫
+mm_dataset_folder/wavs/class4_p10-00011.wav|ꯃꯇꯧ ꯑꯁꯨꯝꯅ ꯁꯉꯥꯏꯅ ꯄꯥꯔ꯭ꯛ ꯃꯅꯨꯡꯗ ꯃꯌꯨꯝ ꯑꯣꯏꯅ ꯅꯨꯡꯉꯥꯏꯅ ꯂꯩꯖꯩ꯫
+mm_dataset_folder/wavs/class4_p21-00001.wav|ꯃꯉꯥꯁꯨꯕ ꯂꯥꯇꯝ ꯆꯠꯊꯣꯛ-ꯆꯠꯁꯤꯟꯒꯤ ꯄꯥꯝꯕꯩ
+mm_dataset_folder/wavs/class4_p15-00025.wav|ꯎꯄꯥꯏ ꯂꯩꯇ꯭ꯔꯗꯨꯅ ꯀ꯭ꯋꯥꯛ ꯑꯗꯨ ꯃꯐꯝ ꯑꯗꯨꯗꯩ ꯄꯥꯏꯈꯩꯔꯝꯃꯤ꯫
+mm_dataset_folder/wavs/class4_p16-00012.wav|ꯅꯤꯡꯊꯧꯅ ꯍꯥꯏꯕ ꯈꯨꯗꯤꯡꯃꯛ ꯑꯗꯨ ꯁꯔꯦꯡꯅ ꯃꯅꯤ ꯑꯗꯨꯒꯤ ꯃꯇꯦꯡꯅ ꯄꯥꯡꯊꯣꯛꯈꯤ꯫
+mm_dataset_folder/wavs/class4_p9-00010.wav|ꯁ꯭ꯀ꯭ꯋꯥꯔ ꯀꯤꯂꯣꯃꯤꯇꯔ ꯅꯤꯐꯨ ꯄꯥꯛ-ꯆꯥꯎꯏ꯫
+mm_dataset_folder/wavs/class4_p16-00011.wav|ꯋꯥꯐꯝ ꯑꯁꯤ ꯇꯥꯕꯗ ꯂꯨꯈ꯭ꯔꯥꯕꯤꯅ ꯀꯞꯅ-ꯀꯞꯅ ꯃꯌꯨꯝꯗ ꯍꯜꯂꯛꯂꯒ ꯃꯆꯥ ꯁꯔꯦꯡꯗ ꯇꯝꯂꯝꯃꯤ꯫
+mm_dataset_folder/wavs/class4_p16-00014.wav|ꯅꯤꯡꯊꯧ ꯃꯆꯥꯅꯨꯄꯤꯅ ꯃꯄꯨꯔꯣꯏꯕ ꯁꯔꯦꯡꯒꯤꯗꯃꯛ ꯅꯨꯡꯇꯤꯒꯤ ꯃꯊꯦꯜ-ꯂꯨꯀꯣꯏ ꯁꯦꯝꯗꯨꯅ ꯊꯝꯂꯝꯃꯤ꯫
+mm_dataset_folder/wavs/class4_p15-00002.wav|ꯂꯨꯈ꯭ꯔꯥꯕꯤꯒꯤ ꯃꯆꯥ ꯁꯔꯦꯡ - ꯀꯥꯡꯈꯗꯒꯤ ꯁꯨꯃꯥꯡꯗ ꯄꯨꯊꯣꯛꯄ
+mm_dataset_folder/wavs/class4_p23-00002.wav|ꯆꯠꯊꯣꯛ-ꯆꯠꯁꯤꯟꯒꯤ ꯄꯥꯝꯕꯩ ꯀꯌꯥ ꯑꯉꯛꯄ ꯐꯪꯅ ꯍꯣꯡꯂꯦ꯫
+mm_dataset_folder/wavs/class4_p15-00017.wav|ꯊꯥꯏꯅ ꯂꯨꯈ꯭ꯔꯥꯕꯤ ꯑꯃꯅ ꯁꯔꯦꯡ ꯑꯃ ꯃꯆꯥ ꯑꯣꯏꯅ ꯄꯣꯛꯂꯝꯃꯤ꯫
+mm_dataset_folder/wavs/class4_p9-00016.wav|ꯀꯩꯕꯨꯜ ꯂꯝꯖꯥꯎꯕꯨ ꯅꯦꯁꯅꯦꯜ ꯄꯔ꯭ꯛ ꯑꯃꯅꯤ ꯍꯥꯏꯅ ꯂꯥꯎꯊꯣꯛꯈꯤ꯫
+mm_dataset_folder/wavs/class4_p6-00014.wav|ꯃꯨꯛꯅꯥꯒꯤ ꯂꯧ ꯌꯥꯝꯅ ꯍꯩꯔꯕꯗꯤ ꯑꯁꯣꯟꯕꯅ ꯃꯉꯣꯟꯗꯒꯤ ꯍꯦꯟꯅ ꯃꯄꯥꯡꯒꯜ ꯀꯟꯕꯕꯨꯁꯨ ꯃꯥꯏꯊꯤꯕ ꯄꯤꯕ ꯉꯝꯃꯤ꯫
+mm_dataset_folder/wavs/class4_p6-00013.wav|ꯖꯇ꯭ꯑꯥ ꯈꯟꯕꯒꯤ ꯃꯨꯛꯅꯥꯗꯗꯤ ꯑꯃꯨꯛꯇꯪ ꯇꯨꯍꯟꯕꯗ ꯃꯨꯛꯅꯥ ꯊꯥꯕ ꯁꯛꯏ꯫
+mm_dataset_folder/wavs/class4_p9-00008.wav|ꯀꯩꯕꯨꯜ ꯂꯝꯖꯥꯎ ꯏꯝꯐꯥꯜꯗꯒꯤ ꯀꯤꯂꯣꯃꯤꯇꯔ ꯌꯥꯡꯈꯩꯃꯨꯂꯛ ꯂꯥꯞꯄꯤ꯫
+mm_dataset_folder/wavs/class4_p22-00007.wav|ꯑꯇꯤꯌꯥꯗ ꯄꯥꯏꯕ ꯎꯆꯦꯛꯁꯤꯡꯒꯨꯝ ꯇꯥꯏꯕꯪ ꯃꯤꯁꯨ ꯌꯥꯝꯅ ꯌꯥꯡꯅ ꯄꯥꯏꯅꯤꯡꯈꯤ꯫
+mm_dataset_folder/wavs/class4_p6-00012.wav|ꯂꯝꯕꯥ ꯑꯃꯥꯕꯨ ꯑꯅꯤꯔꯛ ꯇꯨꯍꯜꯂꯕ 'ꯃꯨꯛꯅꯥ ꯊꯥꯕ' ꯀꯧꯏ꯫
+mm_dataset_folder/wavs/class4_p10-00001.wav|ꯀꯩꯕꯨꯜ ꯂꯝꯖꯥꯎ ꯅꯦꯁꯅꯦꯜ ꯄꯥꯔ꯭ꯛꯀꯤ ꯇꯣꯞ ꯇꯣꯞꯄ ꯃꯇꯧ ꯈꯔ ꯂꯩ꯫
+mm_dataset_folder/wavs/class4_p16-00019.wav|ꯃꯍꯥꯛꯅ ꯃꯄꯨꯔꯣꯏꯕꯗ ꯑꯃꯨꯛ ꯍꯟꯅ ꯁꯔꯦꯡ ꯑꯣꯟꯕꯤꯔꯅꯨ ꯍꯥꯏꯖꯔꯝꯃꯤ꯫
+mm_dataset_folder/wavs/class4_p15-00008.wav|ꯃꯆꯥꯅ ꯇꯛꯄꯗꯒꯤ ꯑꯃꯨꯛꯁꯨ ꯃꯃꯥꯅ ꯍꯥꯏꯔꯕ
+mm_dataset_folder/wavs/class4_p16-00009.wav|ꯍꯟꯗꯛꯇꯤ ꯅꯤꯡꯊꯧꯅ ꯍꯥꯏꯔꯛꯈꯤ ꯍꯌꯦꯡꯒꯤ ꯅꯨꯃꯤꯠꯇ ꯅꯌꯨꯝꯗꯒꯤ ꯀꯣꯅꯨꯡꯒꯤ ꯁꯟꯊꯣꯡ ꯌꯧꯕꯐꯥꯎꯕꯗ ꯃꯅꯤ-ꯃꯨꯛꯇꯥꯅ ꯄꯔꯦꯡ ꯂꯦꯡꯎ꯫
+mm_dataset_folder/wavs/class4_p27-00007.wav|ꯇꯥꯃꯣ - ꯃꯁꯤꯒꯤ ꯇꯦꯂꯤꯚꯤꯖꯟ ꯃꯥꯟꯕ ꯂꯤꯛꯂꯤꯒꯤ ꯃꯃꯥꯏꯁꯤ ꯎꯔꯦꯗꯅ? ꯃꯁꯤ ꯁ꯭ꯀ꯭ꯔꯤꯟ ꯀꯧꯏ꯫
+mm_dataset_folder/wavs/class4_p16-00008.wav|ꯈꯥꯡꯕ ꯉꯝꯗ꯭ꯔꯗꯨꯅ ꯂꯨꯈ꯭ꯔꯥꯕꯤꯗꯨꯅ ꯑꯍꯨꯝꯂꯛ ꯁꯨꯕ ꯑꯣꯏꯅ ꯀꯣꯅꯨꯡꯗ ꯂꯥꯛꯈꯤ꯫
+mm_dataset_folder/wavs/class4_p9-00014.wav|ꯁꯡꯥꯏ ꯍꯥꯏꯕꯁꯤ ꯃꯥꯂꯦꯝꯒꯤ ꯃꯅꯨꯡꯗ ꯃꯅꯤꯄꯨꯔ ꯈꯛꯇꯗ ꯐꯪꯕ ꯌꯥꯝꯅ ꯐꯖꯕ ꯑꯇꯥꯡꯕ ꯁꯖꯤ ꯃꯈꯜꯅꯤ꯫
+mm_dataset_folder/wavs/class4_p16-00005.wav|ꯃꯆꯥꯅ ꯇꯛꯃꯟꯕꯗꯒꯤ ꯃꯃꯥ ꯂꯨꯈ꯭ꯔꯥꯕꯤꯅ ꯑꯃꯨꯛꯁꯨ ꯀꯣꯅꯨꯡꯗ ꯆꯠꯂꯝꯃꯤ꯫
+mm_dataset_folder/wavs/class4_p9-00004.wav|ꯐꯤꯚꯝ ꯉꯥꯛ-ꯁꯦꯟꯗꯨꯅ ꯇꯣꯈꯥꯏꯅ ꯊꯃꯕ ꯃꯐꯝꯕꯨ ꯈꯪꯅꯩ꯫
+mm_dataset_folder/wavs/class4_p21-00012.wav|ꯀꯥꯔ, ꯇ꯭ꯔꯦꯟ ꯑꯁꯤꯅꯆꯤꯡꯕ ꯁꯥꯗꯨꯅ ꯃꯇꯝ ꯆꯪꯗꯅ ꯑꯊꯥꯞꯄꯗ ꯆꯠꯅꯔꯦ, ꯄꯣꯠ-ꯆꯩ ꯄꯨꯅꯔꯦ꯫
+mm_dataset_folder/wavs/class4_p16-00016.wav|ꯅꯨꯃꯤꯗꯥꯡ-ꯅꯨꯃꯤꯗꯥꯡ ꯁꯔꯦꯡꯅ ꯃꯤ ꯑꯣꯜꯂꯒ ꯃꯍꯥꯛꯀꯤ ꯃꯊꯦꯜ ꯂꯨꯀꯣꯏꯗꯨ ꯆꯥꯔꯝꯃꯤ꯫
+mm_dataset_folder/wavs/class4_p15-00003.wav|ꯃꯅꯤ ꯎꯝꯕ ꯀ꯭ꯋꯥꯛ ꯄꯥꯏꯊꯔꯛꯄ ꯃꯅꯤ ꯊꯝꯂꯒ ꯁꯔꯦꯡꯗ ꯍꯟꯒꯦ ꯇꯧꯕ
+mm_dataset_folder/wavs/class4_p15-00006.wav|ꯃꯃꯥꯅ ꯌꯥꯗꯕ - ꯃꯆꯥꯅ ꯇꯛꯄ
+mm_dataset_folder/wavs/class4_p21-00002.wav|ꯃꯥꯂꯦꯝꯗ ꯇꯥꯏꯕꯡ ꯃꯤꯅ ꯏꯍꯥꯟ-ꯍꯥꯟꯅ ꯂꯩꯕ ꯍꯧꯔꯛꯐꯝꯗꯒꯤ ꯉꯁꯤ ꯐꯥꯎꯕꯗ ꯆꯠꯊꯣꯛ-ꯆꯠꯁꯤꯟ ꯅꯨꯉꯥꯏꯅꯕ ꯃꯁꯥꯅ ꯍꯣꯠꯅꯖꯔꯛꯄꯒꯤ ꯅꯨꯡꯁꯤꯔꯕ ꯋꯥꯔꯤ ꯂꯩ꯫
+mm_dataset_folder/wavs/class4_p21-00009.wav|ꯀꯥꯡꯈꯣꯟ ꯄꯥꯟꯕ ꯁꯟ, ꯏꯔꯣꯏ, ꯁꯒꯣꯜ, ꯎꯠꯅꯆꯤꯡꯕ ꯊꯥꯋꯥꯏ ꯄꯥꯟꯕꯁꯤꯡꯅ ꯆꯤꯡꯕ ꯌꯥꯕ ꯒꯥꯔꯤ ꯁꯥꯔꯦ꯫
+mm_dataset_folder/wavs/class4_p15-00020.wav|ꯐꯖꯕ ꯁꯔꯦꯡ ꯑꯗꯨ ꯃꯅꯤ ꯎꯝꯕ ꯀ꯭ꯋꯥꯛ ꯑꯃꯅ ꯎꯔꯝꯃꯤ꯫
+mm_dataset_folder/wavs/class4_p9-00017.wav|ꯅꯦꯁꯅꯦꯜ ꯄꯥꯔ꯭ꯛ ꯑꯣꯏꯕ ꯃꯔꯝꯅ ꯃꯐꯝ ꯑꯁꯤꯕꯨ ꯃꯅꯤꯄꯨꯔꯤ ꯂꯩꯉꯥꯛ ꯃꯄꯨꯒꯤ ꯎꯃꯪ ꯂꯣꯏꯁꯪꯅ ꯉꯥꯛ-ꯁꯦꯜꯂꯦ꯫
+mm_dataset_folder/wavs/class4_p22-00011.wav|ꯍꯧꯖꯤꯛꯇꯤ ꯅꯨꯡꯁꯤꯠ ꯆꯥꯛꯍꯜꯂꯒ ꯈꯣꯟꯖꯦꯜꯗꯒꯤ ꯍꯦꯟꯅ ꯌꯥꯡꯅ ꯄꯥꯏꯕ ꯉꯝꯕ ꯖꯦꯠ ꯄ꯭ꯂꯦꯟ ꯃꯈꯜ ꯀꯌꯥ ꯂꯩꯔꯦ꯫
+mm_dataset_folder/wavs/class4_p21-00003.wav|ꯀꯪꯐꯥꯜꯗ ꯇꯥꯏꯕꯪ ꯃꯤꯁꯤ ꯑꯍꯥꯟꯕꯗ ꯁꯥꯒꯨꯝꯅ ꯃꯈꯨꯠ-ꯃꯈꯣꯡ ꯃꯔꯤꯅ ꯆꯠꯂꯝꯃꯤ꯫
+mm_dataset_folder/wavs/class4_p15-00027.wav|ꯃꯃꯥꯅ ꯃꯆꯥꯒꯤ ꯋꯥꯗꯨ ꯑꯉꯥꯎꯕ ꯋꯥꯅꯤ ꯍꯥꯏꯗꯨꯅ ꯌꯥꯈꯤꯗꯦ꯫
+mm_dataset_folder/wavs/class4_p10-00007.wav|ꯄꯥꯔ꯭ꯛꯇ ꯁꯉꯥꯏꯁꯤꯡꯅ ꯃꯈꯣꯏꯒꯤꯗꯃꯛ ꯌꯣꯛꯇꯨꯅ ꯊꯝꯕ ꯇꯧ, ꯁꯤꯡꯎꯠ-ꯁꯤꯡꯅꯥꯡ, ꯀꯣꯏꯃꯣꯝꯅꯆꯤꯡꯕ ꯑꯋꯥꯡꯕ ꯅꯥꯄꯤ
+mm_dataset_folder/wavs/class4_p27-00010.wav|ꯊꯣꯏꯕ - ꯃꯁꯤꯅ ꯀꯔꯤꯅꯣ?
+mm_dataset_folder/wavs/class4_p22-00008.wav|ꯑꯍꯥꯟꯕꯗ ꯕꯦꯂꯨꯟꯗ ꯒ꯭ꯌꯥꯁ ꯍꯥꯞꯆꯤꯟꯗꯨꯅ ꯃꯩ ꯆꯥꯛꯍꯟꯂꯒ ꯄꯥꯏꯅꯕ ꯍꯣꯠꯅꯈꯤ꯫
+mm_dataset_folder/wavs/class4_p9-00002.wav|ꯀꯩꯕꯨꯜ ꯂꯝꯖꯥꯎ ꯃꯥꯅꯤꯄꯨꯔꯒꯤ ꯃꯥꯃꯤꯡ ꯆꯠꯄ ꯅꯦꯁꯅꯦꯜ ꯄꯥꯔ꯭ꯛꯅꯤ꯫
+mm_dataset_folder/wavs/class4_p22-00010.wav|ꯃꯊꯪꯗ ꯄꯪꯈꯥ ꯎꯪꯂꯒ ꯄꯥꯏꯕ ꯑꯆꯧꯕ ꯃꯥꯂꯪꯍꯤꯁꯤꯡ ꯊꯣꯛꯔꯛꯂꯦ꯫
+mm_dataset_folder/wavs/class4_p23-00001.wav|ꯊꯥꯡꯒꯩꯁꯦꯡꯅꯃꯛ, ꯇꯥꯏꯕꯪ ꯃꯤ ꯃꯁꯥꯅ ꯆꯍꯤ ꯆꯥ ꯀꯌꯥ ꯋꯥꯅ ꯀꯟꯅ ꯍꯣꯠꯅꯔꯛꯄꯒꯤ ꯃꯍꯩ ꯑꯣꯏꯅ
+mm_dataset_folder/wavs/class4_p23-00005.wav|ꯄꯥꯝꯕꯩꯁꯤꯡ ꯑꯁꯤꯅ ꯄꯥꯛ-ꯁꯜꯂꯕ ꯃꯥꯂꯦꯝ ꯑꯁꯤ ꯅꯣꯡꯃ-ꯅꯣꯡꯃꯒꯤ ꯑꯁꯨꯝ-ꯑꯁꯨꯝ ꯄꯤꯛꯁꯤꯟꯍꯜꯂꯦ꯫
+mm_dataset_folder/wavs/class4_p9-00018.wav|ꯂꯩꯉꯥꯛ ꯃꯄꯨꯒꯤ ꯑꯌꯥꯕ ꯌꯥꯎꯗꯅ ꯄꯥꯔ꯭ꯛ ꯃꯅꯨꯡꯗ ꯆꯪꯕ, ꯁꯥ-ꯉꯥ ꯐꯥꯕ, ꯍꯥꯠꯄ ꯑꯃꯁꯨꯡ ꯄꯥꯔ꯭ꯛ ꯃꯅꯨꯡꯒꯤ
+mm_dataset_folder/wavs/class4_p27-00006.wav|ꯊꯣꯏꯕ - ꯃꯁꯤꯅ ꯀꯔꯤ ꯊꯕꯛ ꯇꯧꯏ ꯇꯥꯃꯣ?
+mm_dataset_folder/wavs/class4_p22-00001.wav|ꯑꯍꯥꯟꯕꯗ ꯇꯥꯏꯕꯪ ꯃꯤꯅ ꯏꯁꯤꯡꯗ ꯎ ꯀꯣꯜꯂꯒ ꯇꯥꯎꯊꯔꯝꯃꯤ꯫ ꯃꯊꯪꯗꯗꯤ ꯎꯒꯤ-ꯋꯥꯒꯤ ꯎꯉꯥꯝ ꯇꯣꯡꯂꯒ ꯍꯣꯟꯕ ꯍꯧꯔꯦ꯫
+mm_dataset_folder/wavs/class4_p6-00006.wav|ꯂꯣꯡꯈ꯭ꯔꯩ, ꯀꯞꯂꯥꯛ ꯀꯣꯠꯄꯤ, ꯆꯦꯞꯆꯤꯡ, ꯅꯤꯡꯒꯣꯡ ꯂꯪꯕ, ꯈꯨꯗꯣꯡ, ꯍꯩꯕꯣꯡ ꯀꯥꯕꯤ ꯍꯥꯏꯕꯅꯆꯤꯡꯕ ꯑꯁꯤ ꯂꯧ ꯉꯥꯛꯇꯅꯤ꯫
+mm_dataset_folder/wavs/class4_p9-00006.wav|ꯊꯋꯥꯏ ꯄꯥꯟꯕꯁꯤꯡꯕꯨ ꯃꯥꯡꯍꯟꯗꯅꯕ ꯀꯜꯂꯤ ꯑꯃꯗꯤ ꯌꯣꯛꯈꯠꯂꯤ꯫
+mm_dataset_folder/wavs/class4_p16-00004.wav|ꯃꯆꯥꯅ ꯇꯛꯃꯟꯕꯗꯒꯤ ꯃꯃꯥ ꯂꯨꯈ꯭ꯔꯥꯕꯤꯅ ꯑꯃꯨꯛꯁꯨ ꯀꯣꯅꯨꯡꯗ ꯆꯠꯂꯝꯃꯤ꯫
+mm_dataset_folder/wavs/class4_p16-00003.wav|ꯁꯔꯦꯡꯅ ꯃꯃꯥꯗ ꯅꯤꯡꯊꯧ ꯃꯆꯥꯅꯨꯄꯤꯗꯨꯕꯨ ꯑꯃꯨꯛꯁꯨ ꯍꯟꯅ ꯍꯥꯏꯕꯤꯅꯕ ꯇꯛꯅꯈꯤ꯫
+mm_dataset_folder/wavs/class4_p22-00002.wav|ꯃꯊꯪꯗ ꯎꯒꯤ ꯃꯕꯨꯛ ꯍꯣꯠꯇꯣꯛꯂꯒ ꯍꯤ ꯁꯥꯗꯨꯅ ꯍꯣꯜꯂꯒ ꯆꯠꯄ ꯍꯧꯔꯦ꯫
+mm_dataset_folder/wavs/class4_p9-00011.wav|ꯊꯥꯡꯒ, ꯀꯨꯝꯕꯤ, ꯀꯩꯕꯨꯜ, ꯏꯊꯥꯏꯅ ꯆꯤꯡꯕ ꯈꯨꯡꯒꯪ ꯁꯤꯡꯅ ꯀꯣꯏꯁꯤꯜꯂꯤ꯫
+mm_dataset_folder/wavs/class4_p15-00018.wav|ꯃꯍꯥꯛꯅ ꯃꯆꯥ ꯁꯔꯦꯡ ꯑꯗꯨ ꯈꯨꯗꯦꯡ ꯑꯃꯗ ꯍꯥꯞꯂꯒ ꯀꯥꯡꯈꯗ ꯍꯦꯛ-ꯍꯦꯛ ꯊꯝꯂꯝꯃꯤ꯫
+mm_dataset_folder/wavs/class4_p23-00003.wav|ꯄꯥꯝꯕꯩꯁꯤꯡ ꯑꯁꯤꯒꯤ ꯑꯇꯦꯡꯅ ꯉꯁꯤ ꯆꯥꯎꯔꯕ ꯃꯥꯂꯦꯝꯒꯤ ꯃꯇꯥꯏ ꯑꯃꯗ ꯂꯩꯕ ꯂꯥꯞꯂ-ꯂꯥꯞꯂꯕ ꯃꯐꯝꯁꯤꯡ
+mm_dataset_folder/wavs/class4_p23-00004.wav|ꯂꯩꯀꯥꯏ ꯑꯃꯇꯒꯤ ꯃꯐꯝꯒꯨꯝ ꯏꯅꯛ-ꯅꯛꯁꯤꯟꯅꯔꯦ꯫
+mm_dataset_folder/wavs/class4_p27-00004.wav|ꯊꯣꯏꯕ - ꯍꯥꯡꯗꯣꯛꯑꯣ ꯌꯦꯡꯉꯁꯤ꯫ ꯑꯩꯉꯣꯟꯗ ꯀꯔꯤ-ꯀꯔꯤꯅꯣ ꯈꯔ ꯇꯥꯛꯄꯤꯌꯨ꯫
+mm_dataset_folder/wavs/class4_p22-00009.wav|ꯃꯊꯪꯗ ꯑꯃꯦꯔꯤꯀꯥꯒꯤ ꯔꯥꯏꯠ ꯃꯆꯤꯟ-ꯃꯅꯥꯎꯅ ꯃꯥꯂꯪꯍꯤ ꯄꯨꯊꯣꯛꯈꯤ꯫ ꯃꯥꯂꯪꯍꯤ ꯃꯆꯥ-ꯃꯆꯥ ꯁꯥꯔꯕꯁꯨ ꯃꯤ ꯑꯃꯥ-ꯑꯅꯤꯗꯒꯤ ꯍꯦꯟꯅ ꯇꯣꯡꯕ ꯌꯥꯔꯝꯗꯦ꯫
+mm_dataset_folder/wavs/class4_p16-00007.wav|ꯃꯌꯨꯝ ꯌꯧꯔꯒ ꯃꯃꯥꯅ ꯋꯥꯔꯤ ꯄꯨꯝꯕ ꯃꯆꯥꯗ ꯇꯝꯈꯤ꯫ ꯃꯆꯥ ꯁꯔꯦꯡꯅ ꯏꯃꯥ ꯑꯃꯨꯛꯇꯒ ꯆꯠꯄꯤꯈꯣ ꯍꯥꯏꯗꯨꯅ ꯀꯟꯅ ꯃꯃꯥꯗ ꯍꯥꯏꯖꯔꯝꯃꯤ꯫
+mm_dataset_folder/wavs/class4_p22-00004.wav|ꯁ꯭ꯇ꯭ꯔꯤꯝ ꯏꯟꯖꯤꯟ ꯄꯨꯊꯣꯛꯂꯛꯄꯗꯒꯤꯗꯤ ꯃꯗꯨ ꯖꯍꯥꯖꯗ ꯄꯥꯟꯁꯤꯟꯗꯨꯅ ꯌꯥꯝꯅ ꯆꯥꯎꯕ ꯖꯍꯥꯖ ꯃꯈꯜ ꯀꯌꯥ ꯁꯥꯔꯛꯂꯦ꯫
+mm_dataset_folder/wavs/class4_p6-00004.wav|ꯐꯤ ꯁꯤꯟꯅꯕ ꯃꯥꯇꯨꯡꯗꯒꯤ ꯂꯝꯕꯥ ꯑꯅꯤꯗꯨ ꯑꯃꯅ ꯑꯃꯒꯤ ꯂꯧ ꯌꯦꯡꯅꯗꯨꯅ ꯃꯨꯛꯅꯥ ꯁꯥꯟꯅꯕ ꯍꯧꯏ꯫
+mm_dataset_folder/wavs/class4_p27-00002.wav|ꯊꯣꯏꯕ - ꯇꯥꯃꯣ! ꯎꯄꯨ ꯃꯌꯥꯝ ꯄꯨꯔꯛꯂꯤꯕꯗꯨꯗꯤ ꯀꯔꯤ ꯀꯔꯤꯅꯣ?
+mm_dataset_folder/wavs/class4_p15-00023.wav|ꯃꯆꯤꯟꯗ ꯎꯝꯂꯤꯕ ꯃꯅꯤ ꯑꯗꯨ ꯃꯌꯥꯗ ꯊꯝꯂꯒ ꯁꯔꯦꯡ ꯑꯗꯨꯗ ꯍꯟꯒꯦ ꯇꯧꯔꯝꯃꯤ꯫
+mm_dataset_folder/wavs/class4_p27-00014.wav|ꯊꯣꯏꯕ - ꯑꯣ! ꯑꯗꯨꯗꯤ ꯃꯁꯤ ꯈ꯭ꯋꯥꯏꯗꯒꯤ ꯃꯔꯨ ꯑꯣꯏꯅ!mm_dataset_folder/wavs/class4_p10-00008.wav|ꯀꯨꯡꯅ ꯍꯧꯕ ꯃꯐꯝꯁꯤꯡꯗ ꯂꯦꯛ-ꯆꯥꯗꯨꯅ ꯂꯩ꯫
+mm_dataset_folder/wavs/class4_p15-00022.wav|ꯀ꯭ꯋꯥꯛ ꯑꯗꯨ ꯈꯨꯗꯦꯡ ꯃꯅꯥꯛꯇ ꯄꯥꯏꯊꯔꯛꯂꯝꯃꯤ꯫
+mm_dataset_folder/wavs/class4_p15-00004.wav|ꯃꯔꯦꯡꯅ ꯃꯅꯤ ꯎꯝꯈꯤꯕ
+mm_dataset_folder/wavs/class4_p15-00014.wav|ꯅꯤꯡꯊꯧ ꯃꯆꯥꯅꯨꯄꯤꯅ ꯅꯣꯡꯃ ꯎꯕ
+mm_dataset_folder/wavs/class4_p15-00007.wav|ꯀꯣꯟꯅ ꯌꯥꯕ - ꯅꯤꯡꯊꯧꯅ ꯁꯥꯎꯗꯨꯅ ꯃꯉꯛ ꯏꯜꯍꯟꯕ
+mm_dataset_folder/wavs/class4_p15-00016.wav|ꯃꯤ ꯑꯣꯏꯗꯨꯅ ꯅꯨꯉꯥꯏꯅ ꯄꯥꯟꯕ꯫
+mm_dataset_folder/wavs/class4_p9-00012.wav|ꯀꯩꯕꯨꯜ ꯂꯝꯖꯥꯎꯒꯤ ꯄꯥꯠꯀꯤ ꯁꯔꯨꯛꯇ ꯑꯇꯥꯎꯕ ꯐꯨꯝꯗꯤ ꯃꯔꯥꯡ ꯀꯥꯏꯅ ꯂꯩ꯫
+mm_dataset_folder/wavs/class4_p6-00002.wav|ꯐꯤꯖꯦꯠ ꯁꯦꯠꯍꯜꯂꯤ꯫ ꯃꯨꯛꯅꯥꯒꯤ ꯂꯝꯕꯥ ꯑꯅꯤꯗꯨ ꯑꯃꯅ ꯑꯃꯒꯤ ꯃꯈꯨꯠ ꯄꯤꯅꯗꯨꯅ ꯃꯐꯤ-ꯃꯐꯤ ꯑꯗꯨꯗ ꯄꯥꯏꯅꯍꯜꯂꯤ꯫
+mm_dataset_folder/wavs/class4_p16-00010.wav|ꯉꯝꯂꯕꯗꯤ ꯏꯆꯥꯅꯨꯄꯤ ꯄꯤꯒꯅꯤ꯫ ꯉꯝꯗ꯭ꯔꯕꯗꯤ ꯅꯃꯥ-ꯅꯆꯥ ꯑꯅꯤꯃꯛ ꯑꯉꯥꯡ ꯑꯣꯟꯍꯟꯒꯅꯤ꯫
+mm_dataset_folder/wavs/class4_p9-00009.wav|ꯂꯣꯛꯇꯥꯛ ꯄꯥꯠꯀꯤ ꯈꯥ-ꯅꯣꯡꯄꯣꯛ ꯊꯪꯕ ꯁꯔꯨꯛꯇ ꯂꯩ꯫
+mm_dataset_folder/wavs/class4_p21-00004.wav|ꯃꯊꯪꯗ ꯃꯈꯣꯡ ꯑꯅꯤꯈꯛꯇꯅ ꯆꯠꯄ ꯍꯩꯔꯛꯂꯦ꯫
+mm_dataset_folder/wavs/class4_p22-00013.wav|ꯍꯦꯟꯅ-ꯍꯦꯟꯅ ꯂꯨꯝꯕ ꯄꯣꯠꯁꯨ ꯄꯨꯕ ꯉꯝꯅꯔꯛꯂꯦ꯫
+mm_dataset_folder/wavs/class4_p27-00012.wav|ꯃꯁꯤꯅ ꯆꯝꯄ꯭ꯌꯨꯇꯔꯒꯤ ꯃꯆꯥꯛ ꯃꯌꯥꯝ ꯄꯨꯝꯅꯃꯛꯁꯤ ꯃꯥꯒꯤ ꯃꯊꯧ ꯇꯧꯍꯟꯅꯕꯅꯤ꯫ ꯃꯁꯤꯕꯨ ꯕꯦꯔꯥ ꯇꯧꯔꯕꯗꯤ ꯃꯄꯣꯠ ꯄꯨꯝꯅꯃꯛꯁꯤ ꯑꯃꯇ ꯌꯥꯗ꯭ꯔꯦ꯫
+mm_dataset_folder/wavs/class4_p16-00002.wav|ꯃꯅꯥꯏꯁꯤꯡꯗ ꯂꯨꯈ꯭ꯔꯥꯕꯤꯗꯨꯕꯨ ꯃꯉꯛ ꯂꯥꯛꯇꯨꯅ ꯏꯜꯍꯟꯈꯤ꯫ ꯃꯃꯥꯅ ꯃꯌꯨꯝ ꯌꯧꯔꯒ ꯃꯆꯥ ꯁꯔꯦꯡꯗ ꯋꯥꯔꯤ ꯄꯨꯝꯕ ꯇꯝꯈꯤ꯫
